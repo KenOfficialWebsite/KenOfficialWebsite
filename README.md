@@ -43,6 +43,46 @@ The official main page for Ken Zone
 Please don't! At least now. The project is stll in development and it is very buggy. Which is why I haven't released yet. I will remove this until I fully done the development of this website. Thanks.
 
 - - - -
+## 🔩 Folder structure 
+```
+/ # 根目錄
+------------------------------------
+- .broswerslstrc 
+- vue.config.js # Vue 設定檔
+- .eslintrc.js
+- .gitignore
+- babel.config.js
+
+
+/docs
+------------------------------------
+- /css
+- /fonts 
+- /img 
+- /js
+- 404.html
+- favicon.ico
+- index.html
+
+
+/pubic
+------------------------------------
+- /img 
+- index.html
+- logo.ico
+
+/src
+------------------------------------
+- /assets
+- /common
+- /components
+- /json
+- /store
+- /views
+- App.vue 
+- main.js
+```
+- - - - -
 
 # About Project
 
