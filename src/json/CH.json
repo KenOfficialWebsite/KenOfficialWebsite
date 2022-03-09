@@ -1,0 +1,79 @@
+{
+    "navbtn":[
+        "關於",
+        "現況",
+        "歷史",
+        "文件",
+        "加入"
+    ],
+    "about":{
+        "card1":{
+            "title":"簡介",
+            "content":"Ken ZONE 是神召會元朗錦光堂上的區(Zone)，由 Kennith Ko 創立於 2019年10月1日。起初為 {var=start] 為主；隨著時間經過各種事件與變革，現已 {var=now}。",
+            "img":""
+        },
+        "card3":{
+            "title":"",
+            "content":"Soon",
+            "img":"https://web.whatsapp.com/62c008d8-ec14-4a03-8fd9-b9433262656b"
+        },
+        "card4":{
+            "title":"核心理念",
+            "content":"待補...",
+            "img":""
+        }
+    },
+    "docs":{
+        "doc1":{
+            "name":"🙏祈禱",
+            "url":"https://pray.kenofficialwebsite.repl.co/",
+            "intro":"有什麼我們可以為你祈禱的？"
+        },
+        "doc2":{
+            "name":"GitHub",
+            "url":"https://github.com/KenOfficialWebsite",
+            "intro":"Official GitHub Page for KenOfficialWebsite"
+        },
+        "doc3":{
+            "name":"📜Login",
+            "url":"https://login.kenofficialwebsite.repl.co",
+            "intro":"Member Login"
+        },
+        "doc4":{
+            "name":"Undefined",
+            "url":"about:blank",
+            "intro":"Undefined"
+        }
+    },
+    "applications":{
+        "app1":{
+            "name":"Undefined",
+            "url":"about:blank",
+            "intro":"Undefined"
+        }
+    },
+    "project":{
+        "proj1":{
+            "name":"Undefined",
+            "url":"about:blank",
+            "intro":"Undefined"
+        }
+    },
+    "join":{
+        "discord":{
+            "name":"Undefined",
+            "img":"",
+            "title":"Undefined",
+            "content":"Undefined",
+            "link":"about:blank"
+        },
+        "github":{
+            "name":"Undefined",
+            "img":"",
+            "title":"Undefined",
+            "content":"",
+            "link":"Undefined",
+            "join":"Undefined"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "navbtn":[
+        "About",
+        "Status",
+        "History",
+        "Documents",
+        "Join"
+    ],
+    "about":{
+        "card1":{
+            "title":"Intro",
+            "content":"Ken ZONE is a Yuen Long Kam Kwong Church Zone, created by Kennith Ko on Tuesday, 1 October 2019  . At the beginning, it was simply a comprehensive communication platform, and was {var=past} in general. Later, after some events and changes, it is now a {var=now}.",
+            "img":""
+        },
+        "card3":{
+            "title":"",
+            "content":"TODO.",
+            "img":""
+        },
+        "card4":{
+            "title":"Core Value",
+            "content":"TODO",
+            "img":""
+        }
+    },
+    "docs":{
+        "doc1":{
+            "name":"🙏Pray",
+            "url":"https://pray.kenofficialwebsite.repl.co/",
+            "intro":"What can we pray for you？"
+        },
+        "doc2":{
+            "name":"GitHub",
+            "url":"https://github.com/KenOfficialWebsite",
+            "intro":"Official GitHub Page for KenOfficialWebsite"
+        },
+        "doc3":{
+            "name":"📜Login",
+            "url":"https://login.kenofficialwebsite.repl.co",
+            "intro":"Member Login"
+        },
+        "doc4":{
+            "name":"Undefined",
+            "url":"about:blank",
+            "intro":"Undefined"
+        }
+    },
+    "applications":{
+        "app1":{
+            "name":"Undefined",
+            "url":"about:blank",
+            "intro":"Undefined"
+        }
+    },
+    "project":{
+        "proj1":{
+            "name":"Undefined",
+            "url":"about:blank",
+            "intro":"Undefined"
+        }
+    },
+    "join":{
+        "discord":{
+            "name":"Undefined",
+            "img":"",
+            "title":"Undefined",
+            "content":"Undefined",
+            "link":"about:blank"
+        },
+        "github":{
+            "name":"Undefined",
+            "img":"",
+            "title":"Undefined",
+            "content":"",
+            "link":"Undefined",
+            "join":"Undefined"
+        }
+    }
+}
