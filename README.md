@@ -4,12 +4,9 @@
 # KenOfficialWebsite
 The official main page for Ken Zone
 
-## Lastest Version: Alpha V6
-### Changelog for Alpha V6
-- Added Core Scripture to /src/json
-
-### Todo for Alpha V6
-- Fix iPad Pro responsive 
+## Lastest Version: Alpha V6A
+### Changelog for Alpha V6A
+- Fix iPad Pro responsive
 
 # Changelog 
 ##### Current version: Version 5
