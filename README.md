@@ -116,8 +116,5 @@ Please don't! At least now. The project is stll in development and it is very bu
 ### Project Developer
 *Hennry, Casper Ong, IsaacchaN*
 
-### Project Designer
-*Kim*
-
 ### Opinion Provider
-***Wing Yan, Maria***
+*Wing Yan, Maria*
