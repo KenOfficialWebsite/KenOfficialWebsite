@@ -4,12 +4,29 @@
 # KenOfficialWebsite
 The official main page for Ken Zone
 
-## Lastest Version: Alpha V6A
-### Changelog for Alpha V6A
+## Lastest Version: Alpha V6B
+### Changelog for Alpha 
+
+V6B:
+<details> 
+  <summary>Remove useless folder for testing</summary>
+   "~/docs"
+</details>
+<details> 
+  <summary>Fixed bugs for GNU/Linux</summary>
+  Slow loading & loading incorrect
+</details>
+<details> 
+  <summary>Added Error message of javascript</summary>
+   "We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue."
+</details>
+
+
+V6A:
 - Fix iPad Pro responsive
 
 # Changelog 
-##### Current version: Version 5
+##### Current version: Version V6B
 
 ### Version 5 
 #### Fix bugs. Pushed to github.
@@ -58,15 +75,15 @@ Please don't! At least now. The project is stll in development and it is very bu
 - babel.config.js
 
 
-/docs
+/docs # Removed
 ------------------------------------
-- /css
-- /fonts 
-- /img 
-- /js
-- 404.html
-- favicon.ico
-- index.html
+- /css # Removed
+- /fonts # Removed
+- /img # Removed
+- /js # Removed
+- 404.html # Removed
+- favicon.ico # Removed
+- index.html # Removed
 
 
 /pubic
