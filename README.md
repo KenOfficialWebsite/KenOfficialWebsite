@@ -4,10 +4,11 @@
 # KenOfficialWebsite
 The official main page for Ken Zone
 
-## Lastest Version: Alpha V6B
-### Changelog for Alpha 
+## Lastest Version: Version V6
 
-V6B:
+# Changelog 
+##### Current version: Version V6
+
 <details> 
   <summary>Remove useless folder for testing</summary>
    "~/docs"
@@ -20,23 +21,17 @@ V6B:
   <summary>Added Error message of javascript</summary>
    "We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue."
 </details>
-
-
-V6A:
 - Fix iPad Pro responsive
 
-# Changelog 
-##### Current version: Version V6B
-
+---
+## Older Version
 ### Version 5 
 #### Fix bugs. Pushed to github.
 
 - Officially pushed to github.
 - Updated .gitignore file.
 - Fixed HTTP 500 Error.
-
----
-## Older Version
+  
 ### Version 4
 #### Fixed Perforcemence Issue
 
